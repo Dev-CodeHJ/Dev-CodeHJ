@@ -10,23 +10,23 @@
 
 <div align=center>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+ <br>
+ 
+ <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
+ <img src="https://img.shields.io/badge/maven-C71A36?style=flat&logo=apache Maven&logoColor=white">
+ <br>
+  
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
+ <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
  <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
  <br>
  
- <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
- <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=maven&logoColor=white">
+ <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
  <br>
   
- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
- <br>
- 
- <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> 
- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
- <br>
-  
- <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intellij&logoColor=white">
- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+ <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&&logoColor=white">
  <br>
 </div>
